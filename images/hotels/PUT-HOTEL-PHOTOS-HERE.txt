@@ -1,0 +1,10 @@
+Hotel photos go here. File names must match the i:"images/hotels/..." names in js/data.js:
+
+hotel-jagdamba.jpg (added)
+hotel-railway-station.jpg (added)
+hotel-ginger.jpg (added)
+hotel-hyatt-place.jpg (added)
+hotel-5star-jalna-road.jpg (added)
+
+UNUSED-photo-rename-me.jpg is a photo that was not matched to any hotel. Rename it to a hotel name above.
+hotel-rama-international.jpg (added)
